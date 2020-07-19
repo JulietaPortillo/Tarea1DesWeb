@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>2da Tarea Desarollo Software</title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+<BODY text="black">
+<font size=12>
+<script>
+
+var registro;
+var mail;
+registro=prompt('Ingrese el nombre de registro:',");
+mail=prompt('Ingrese el mail:',");
+document.write('Nombre de registro agregado:');
+document.write(registro);
+document.write('<br>');
+document.write('mail agregado:');
+document.write(mail);
+
+</script>
+</font>
+</body>
+</html>
+
+<body style="background-color:white;">
+</body>
